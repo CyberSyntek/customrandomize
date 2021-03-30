@@ -22,38 +22,38 @@ You should now be good to go! But perhaps reading the stuff below will help you 
 
 USING RANDOMIZATION - Python commands to use in gesture files or in the python tab in MRL.
 
-randomneck()   #Moves the neck randomly (Neck/Rotneck/Rollneck)
-randomneckstop()   #Stops the neck from moving randomly (Neck/Rotneck/Rollneck)
+- randomneck()   #Moves the neck randomly (Neck/Rotneck/Rollneck)
+- randomneckstop()   #Stops the neck from moving randomly (Neck/Rotneck/Rollneck)
 
-randomlook()   #Moves the eyes randomly (EyeX/EyeY)
-randomlookstop()   #Stops the eyes from moving randomly (EyeX/EyeY)
+- randomlook()   #Moves the eyes randomly (EyeX/EyeY)
+- randomlookstop()   #Stops the eyes from moving randomly (EyeX/EyeY)
 
-randomfullhead()   #Moves the fullhead randomly (This is just a bonus for lazy people: It is a combo of the above two.)       
-randomfullheadstop()    #Stops the full head from moving randomly. 
+- randomfullhead()   #Moves the fullhead randomly (This is just a bonus for lazy people: It is a combo of the above two.)       
+- randomfullheadstop()    #Stops the full head from moving randomly. 
 
-randomarms() #Moves both arms randomly (bicep/rotate/omniplate)
-randomarmsstop() #Stops both arms from moving randomly.(bicep/rotate/omniplate)
+- randomarms() #Moves both arms randomly (bicep/rotate/omniplate)
+- randomarmsstop() #Stops both arms from moving randomly.(bicep/rotate/omniplate)
 
-randomleftarm() #Moves the left arm randomly (bicep/rotate/omniplate)
-randomleftarmstop() #Stops the left arm from moving randomly.(bicep/rotate/omniplate)
+- randomleftarm() #Moves the left arm randomly (bicep/rotate/omniplate)
+- randomleftarmstop() #Stops the left arm from moving randomly.(bicep/rotate/omniplate)
 
-randomrightarm() #Moves the right arm randomly (bicep/rotate/omniplate)
-randomrightarmstop() #Stops the right arm from moving randomly.(bicep/rotate/omniplate)
+- randomrightarm() #Moves the right arm randomly (bicep/rotate/omniplate)
+- randomrightarmstop() #Stops the right arm from moving randomly.(bicep/rotate/omniplate)
 
-randomhands() #Moves both hands randomly (Thumb/Index/Majeure/Ring/Pinky/Wrist)
-randomhandsstop() #Stops both hands from moving randomly.    (Thumb/Index/Majeure/Ring/Pinky/Wrist)
+- randomhands() #Moves both hands randomly (Thumb/Index/Majeure/Ring/Pinky/Wrist)
+- randomhandsstop() #Stops both hands from moving randomly.    (Thumb/Index/Majeure/Ring/Pinky/Wrist)
 
-randomlefthand() #Moves the left hand randomly (Thumb/Index/Majeure/Ring/Pinky/Wrist)
-randomlefthandstop() #Stops the left hand from moving randomly.    (Thumb/Index/Majeure/Ring/Pinky/Wrist)
+- randomlefthand() #Moves the left hand randomly (Thumb/Index/Majeure/Ring/Pinky/Wrist)
+- randomlefthandstop() #Stops the left hand from moving randomly.    (Thumb/Index/Majeure/Ring/Pinky/Wrist)
 
-randomrighthand() #Moves the right hand randomly (Thumb/Index/Majeure/Ring/Pinky/Wrist)
-randomrighthandstop() #Stops the right hand from moving randomly.    (Thumb/Index/Majeure/Ring/Pinky/Wrist)
+- randomrighthand() #Moves the right hand randomly (Thumb/Index/Majeure/Ring/Pinky/Wrist)
+- randomrighthandstop() #Stops the right hand from moving randomly.    (Thumb/Index/Majeure/Ring/Pinky/Wrist)
 
-randomstomach() #Moves the stomach randomly (TopStom/MidStom)
-randomstomachstop() #Stops the stomach from moving randomly. (TopStom/MidStom)
+- randomstomach() #Moves the stomach randomly (TopStom/MidStom)
+- randomstomachstop() #Stops the stomach from moving randomly. (TopStom/MidStom)
 
-randomfull() #Moves the FULL robot randomly. (EVERYTHING!)
-randomfullstop() #Stops the full robot from moving randomly (EVERYTHING!)
+- randomfull() #Moves the FULL robot randomly. (EVERYTHING!)
+- randomfullstop() #Stops the full robot from moving randomly (EVERYTHING!)
 
 
 TIPS
