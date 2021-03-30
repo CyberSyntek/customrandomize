@@ -1,4 +1,4 @@
-# RANDOMMOVEMENTLIFE
+# CUSTOM-RANDOM-MOVEMENT-LIFE
 Your guide to customized randomized movement with your InMoov robot. 
 ===========================================================================
 
