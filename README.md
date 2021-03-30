@@ -69,12 +69,12 @@ TIPS
 
 OTHER TAB INFO.
 
-"MoveEyesTimer" and "MoveHeadTimer" looks odd being there. Those are Gael's original files which I left untouch due to I'm not sure just how tied into other services they are. I really don't want to dig through every file to find out. :D
+- "MoveEyesTimer" and "MoveHeadTimer" looks odd being there. Those are Gael's original files which I left untouch due to I'm not sure just how tied into other services they are. I really don't want to dig through every file to find out. :D
 
-"FullHeadRandom" really isn't needed as it is just a combo of "LookRandom" and "NeckRandom". I didn't bother to make the whole left/right arm tabs to try and avoid adding so many new tabs when this can already be achieved easily.
+- "FullHeadRandom" really isn't needed as it is just a combo of "LookRandom" and "NeckRandom". I didn't bother to make the whole left/right arm tabs to try and avoid adding so many new tabs when this can already be achieved easily.
 
-"MoveRandomTimer" is Gael's original move full robot file modified to work with "BothArmsRandom", "BothHandsRandom","LookRandom","NeckRandom" and "StomachRandom" AKA Move the whole robot random with the customizes settings, name unchanged.
+- "MoveRandomTimer" is Gael's original move full robot file modified to work with "BothArmsRandom", "BothHandsRandom","LookRandom","NeckRandom" and "StomachRandom" AKA Move the whole robot random with the customizes settings, name unchanged.
 
 CONTACT IF NEEDED
 
-You can reach me on the "Robotics Learning" discord or "InMoov Robot Builders" facebook page.
+- You can reach me on the "Robotics Learning" discord or "InMoov Robot Builders" facebook page.
