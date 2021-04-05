@@ -23,9 +23,9 @@ You should now be good to go! But perhaps reading the stuff below will help you 
 
 - I believe the tabs will only show up in your MRL if you have those parts enabled for the robot. Otherwise they will show up when you have those parts enabled. :9
 
-===========================================================
+
 USING RANDOMIZATION - Python commands to use in gesture files or in the python tab in MRL.
-===========================================================
+
 
 - randomneck()   #Moves the neck randomly (Neck/Rotneck/Rollneck)
 - randomneckstop()   #Stops the neck from moving randomly (Neck/Rotneck/Rollneck)
