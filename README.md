@@ -1,4 +1,6 @@
-V2.0
+V2.1
+- Neck and Head figured readjusted back to hardware map settings. - My rotneck and rollneck settings are slightly off and I forgot to readjust. They are now updated.
+
 - Updated the RandomFull file (both arms/both hards) > Right/Left side arms/hands) The both hands file was bugging out mostly due to I wasn't updating that file. :9
 - Updated the main image with the sleep(0.1) is your friend info which will help you elimate strange movements if and when that happens. 
 - Updated the random movement....movements for better ...movements. :D
