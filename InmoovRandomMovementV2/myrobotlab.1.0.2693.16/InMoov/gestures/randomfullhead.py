@@ -1,0 +1,2 @@
+def randomfullhead():
+  FullHeadRandom.startClock()

@@ -1,0 +1,2 @@
+def randomlook():
+  LookRandom.startClock()

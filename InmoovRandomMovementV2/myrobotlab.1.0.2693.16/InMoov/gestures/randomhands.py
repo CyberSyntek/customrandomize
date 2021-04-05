@@ -1,0 +1,2 @@
+def randomhands():
+  BothHandsRandom.startClock()

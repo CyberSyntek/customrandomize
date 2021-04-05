@@ -1,0 +1,2 @@
+def randomfullstop():
+  MoveRandomTimer.stopClock()
