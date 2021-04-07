@@ -53,31 +53,31 @@ randomstomachstop()   #Stops the stomach from moving randomly. (TopStom/MidStom)
 randomfull()   #Moves the FULL robot randomly. (FULL BODY COMBO:Triggers randomneck / randomlook / randomleftarm / randomrightarm / randomlefthand / randomrighthand / randomstomach)
 randomfullstop()   #Stops the full robot from moving randomly (FULL BODY COMBO:Stops randomneck / randomlook / randomleftarm / randomrightarm / randomlefthand / randomrighthand / randomstomach)
 
-====
+----
 TIPS
-====
+----
 - Look at the RandomLife.jpg image file included to help understand how you can adjust and tune your random settings. 
 
 - Play with the figures in the life folder files until you feel you have achieved the natural looking random movement results you are wanting.
 
 - I believe the tabs will only show up in your MRL if you have those parts enabled for the robot. Otherwise they will show up when you have those parts enabled. I didn't test this. :9
 
-===============
+-----
 NOTES
-===============
+-----
 - I have not touched InMoov's original random files in place. (MoveHeadRandomize.py / MoveEyesRandomize.py / MoveRandomize.py / MoveBodyRandomize.py)
 
 - "MoveEyesTimer" and "MoveHeadTimer" looks a bit odd in MRL with the addition of "LookRandom" and "NeckRandom" as they do close to the same things. (Note: Don't run them at the same time. haha)
 
-===============
+-------------------------------------
 STRANGE AUDIO FILE RANDOM PAUSE ISSUE
-===============
+-------------------------------------
 - This issue is relating to playing audio files ONLY. For some reason if you have random movements going and you add an audio file into your gesture, your random movements will pause for about 2 seconds. 
 (This issue is relating to "mouthControlAudiofile=True" from within the InMoov/services/1_AudioFile.py file. If you change this to "mouthControlAudiofile=False" the pause will no longer occur. (BUT in turn you should lose control of your jaw motor while playing audio. If you are running an audio servo driver... this won't matter as you aren't using that function anyway.) 
 
-=================
+-----------------
 CONTACT IF NEEDED
-=================
+-----------------
 You can reach me on the "Robotics Learning" discord or "InMoov Robot Builders" facebook page if you need further help. 
 
 - Shido
