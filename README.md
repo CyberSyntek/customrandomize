@@ -53,6 +53,11 @@ randomstomachstop()   #Stops the stomach from moving randomly. (TopStom/MidStom)
 randomfull()   #Moves the FULL robot randomly. (FULL BODY COMBO:Triggers randomneck / randomlook / randomleftarm / randomrightarm / randomlefthand / randomrighthand / randomstomach)
 randomfullstop()   #Stops the full robot from moving randomly (FULL BODY COMBO:Stops randomneck / randomlook / randomleftarm / randomrightarm / randomlefthand / randomrighthand / randomstomach)
 
+----------
+IMPORTANT!
+----------
+- Do NOT run the above new timers at the same time or from within the same gesture as the original files. They will overlap and cause erratic movements. 
+
 ----
 TIPS
 ----
