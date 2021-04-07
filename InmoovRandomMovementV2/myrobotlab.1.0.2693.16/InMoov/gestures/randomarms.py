@@ -1,2 +1,0 @@
-def randomarms():
-  BothArmsRandom.startClock()

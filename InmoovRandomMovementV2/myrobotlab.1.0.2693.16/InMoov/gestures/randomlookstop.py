@@ -1,2 +1,0 @@
-def randomlookstop():
-  LookRandom.stopClock()

@@ -1,2 +1,0 @@
-def randomneck():
-  NeckRandom.startClock()

@@ -1,2 +1,0 @@
-def randomfull():
-  MoveRandomTimer.startClock()

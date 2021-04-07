@@ -1,2 +1,0 @@
-def randomlefthand():
-  LeftHandRandom.startClock()

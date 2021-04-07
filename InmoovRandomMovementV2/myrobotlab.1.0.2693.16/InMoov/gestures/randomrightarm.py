@@ -1,2 +1,0 @@
-def randomrightarm():
-  RightArmRandom.startClock()
