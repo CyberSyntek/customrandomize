@@ -1,0 +1,2 @@
+def randomrighthand():
+  RightHandRandom.startClock()
